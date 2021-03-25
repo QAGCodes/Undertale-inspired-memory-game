@@ -43,7 +43,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](https://github.com/QAGatPurdue/pre-work/blob/main/Ij9tfuDCOD.gif)
+
+
+![](https://github.com/QAGatPurdue/pre-work/blob/main/2nd.gif)
+
+The second GIF is to demonstrate the change of speed feature better.
 
 
 ## Reflection Questions
